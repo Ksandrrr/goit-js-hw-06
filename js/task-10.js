@@ -24,7 +24,6 @@ function creatElm(value) {
   
   for (let i = 1; i < value; i++) {
     sizeStyle += 10
-    console.log(sizeStyle)
     creatElm()
   }
 }

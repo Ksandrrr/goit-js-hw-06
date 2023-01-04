@@ -50,4 +50,3 @@ console.log(`Category:`, listLast4.length);
 
 ////
 
-сщтые
